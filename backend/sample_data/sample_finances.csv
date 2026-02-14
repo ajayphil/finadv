@@ -1,0 +1,7 @@
+date,category,amount,description
+2026-01-01,income,5000,monthly salary
+2026-01-05,rent,-1500,monthly rent
+2026-01-10,groceries,-400,supermarket
+2026-01-12,utilities,-200,electricity
+2026-01-20,credit_card,-1200,visa balance
+2026-01-25,savings,500,transfer to savings
